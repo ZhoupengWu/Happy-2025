@@ -28,4 +28,4 @@ This project used **HTML**, **CSS** and **JavaScript** to create an interactive 
 
 ## 📜 License
 
-This project is **open source** and you can copy, modify or use it for your own purposes. Just give credits
+**This project is licensed under the terms of the [Wu Zhoupeng License 1.0](./LICENSE.md)**
