@@ -1,4 +1,4 @@
-# "Happy 2025 to all" Project
+# 🎉 "Happy 2025 to all" Project 🎉
 
 An interactive site designed to celebrate the beginning of 2025 featuring confetti animations, dynamic color changes and attractive design
 
